@@ -2,9 +2,7 @@
 
 > Built with MERN stack (MongoDB, Express, React and Node).
 
-> Shopping App, it started for The Odin Project practice
-> Started from here [curriculum](https://www.theodinproject.com/courses/nodejs/lessons/inventory-application)
-> The Code can be found [here](https://github.com/hamohuh/inventory-application)
+> Shopping App
 
 ### <h2 align="center"> ⚡️⚡️⚡️ &nbsp; [Live Demo](https://afternoon-atoll-93127.herokuapp.com/) ⚡️⚡️⚡️ </h2>
 
@@ -89,53 +87,3 @@
 - Yup (To handle client side form validation)
 - Sass
 
-## 💡 &nbsp; Key Concepts
-
-- MVC (Model-View-Controller)
-- CRUD operations
-- Authentication system
-- Encrypting passwords
-- Images handling using multer
-- OOP (Object Oriented Programming)
-
-## 📈 &nbsp; UML Diagram
-
-> It's my first time to design a UML so maybe it sucks :D
-
-![UML Diagram](https://i.imgur.com/vGa9f8e.jpg)
-
-## 💻 &nbsp; Setup
-
-To run this project, install it locally using npm:
-
-```
-$ cd inventory-application
-$ npm install (install backend dependencies)
-$ cd views
-$ npm install (install frontend dependencies)
-$ cd ..
-$ npm run server (for Node server side development)
-$ npm run client (for React client side development)
-$ npm run dev (for both client and server side)
-```
-## &nbsp; ENV
-- PORT=
-- DB_URI=
-- JWT_SECRET=
-- CLOUDINARY_CLOUD_NAME=
-- CLOUDINARY_API_KEY=
-- CLOUDINARY_API_ESCRET=
-
-
-# Author
-
-👤 &nbsp; **Mohamed Elashmawy**
-
-- Twitter: [@hamohuh](https://twitter.com/hamohuh)
-- Github: [@moelashmawy](https://github.com/moelashmawy)
-- Linkedin: [@moelashmawy](https://www.linkedin.com/in/moelashmawy/)
-- Email: [ashmawy894@gmail.com](mailto:ashmawy894@gmail.com)
-
-## 📝 &nbsp; License
-
-- This project is [MIT](./LICENSE) licensed.
